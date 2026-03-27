@@ -1,6 +1,6 @@
-package com.example.helloapp;
-public class HelloApp {
-    public static void main(String[] args) {
-        System.out.println("Hello,world!");
-    }
+public class helloapp {
+	public static void main(string [] args) {
+		string name= args[0];
+		system.out.println("hello," + name + "!");
+	}
 }
